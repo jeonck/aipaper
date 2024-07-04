@@ -1,6 +1,5 @@
 streamlit
 requests
-langchain.prompts
 langchain_openai
 langchain_core.output_parsers
 langchain.callbacks.streaming_stdout
